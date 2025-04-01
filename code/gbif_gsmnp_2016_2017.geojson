@@ -186,7 +186,7 @@
 { "type": "Feature", "properties": { "species": "Trillium undulatum", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
 { "type": "Feature", "properties": { "species": "Viola rotundifolia", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
 { "type": "Feature", "properties": { "species": "Viburnum lantanoides", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
-{ "type": "Feature", "properties": { "species": "Unknown", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
+{ "type": "Feature", "properties": { "species": "Melanthium parviflorum", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
 { "type": "Feature", "properties": { "species": "Aesculus flava", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
 { "type": "Feature", "properties": { "species": "Hexastylis arifolia", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
 { "type": "Feature", "properties": { "species": "Phacelia fimbriata", "latitude": 35.611764, "longitude": -83.489545, "year": 2016 }, "geometry": { "type": "Point", "coordinates": [ -83.489545, 35.611764 ] } },
